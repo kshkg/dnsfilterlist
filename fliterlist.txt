@@ -6,3 +6,5 @@
 ||tuisong.baidu.com
 ||adstrategy.biz.weibo.com
 ||sb.scorecardsearch.com
+||regqr.gov.hk.cdn.cloudflare.net
+||firebaseinstallations.googleapis.com
