@@ -8,3 +8,4 @@
 ||sb.scorecardsearch.com
 ||regqr.gov.hk.cdn.cloudflare.net
 ||firebaseinstallations.googleapis.com
+||media-router-flurry1.prod.media.wg1.b.yahoo.com
