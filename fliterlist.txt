@@ -11,3 +11,4 @@
 ||media-router-flurry1.prod.media.wg1.b.yahoo.com^$important
 ||ads.yap.yahoo.com^$important
 ||adservice.google.com^$important
+||googleads.g.doubleclick.net^$important
