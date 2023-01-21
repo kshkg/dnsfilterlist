@@ -4,7 +4,6 @@
 ||tuisong.baidu.com^$important
 ||adstrategy.biz.weibo.com^$important
 ||sb.scorecardsearch.com^$important
-||regqr.gov.hk.cdn.cloudflare.net^$important
 ||firebaseinstallations.googleapis.com^$important
 ||media-router-flurry1.prod.media.wg1.b.yahoo.com^$important
 ||ads.yap.yahoo.com^$important
