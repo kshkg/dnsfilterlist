@@ -10,7 +10,3 @@
 ||adservice.google.com^$important
 ||googleads.g.doubleclick.net^$important
 @@||ad.doubleclick.net^$important
-!
-$removeparam=utm_source
-$removeparam=utm_medium
-$removeparam=uutm_campaign
