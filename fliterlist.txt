@@ -9,6 +9,7 @@
 ||ads.yap.yahoo.com^$important
 ||adservice.google.com^$important
 ||googleads.g.doubleclick.net^$important
+@@||ad.doubleclick.net^
 !
 $removeparam=utm_source
 $removeparam=utm_medium
